@@ -1,5 +1,5 @@
 ### Custom Validations Using Rule Objects
-- Command for making rule file :
+- Command for making rule file
 - php artisan make:rule Uppercase
 
 ### Multi-User Custom Authentications System With Session
