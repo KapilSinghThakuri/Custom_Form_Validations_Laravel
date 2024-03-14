@@ -2,7 +2,7 @@
 - Command for making rule file :
 - php artisan make:rule Uppercase
 
-### Multi-User Custom Authentications System
+### Multi-User Custom Authentications System With Session
 - Command for making Controller,Model,Migrations,Middleware
 - php artisan make:controller CustomAuthController
 - php artisan make:migration create_users_table
